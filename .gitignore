@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# LTspice
+*.raw
+*.op.raw
+*.log
+
+# Multisim backups/temp
+*.ms14~
+*.bak
+
+# General temp/output
+*.tmp
+~$*
